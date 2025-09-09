@@ -17,3 +17,17 @@ console.log(money);
 // console.log(price);
 // console.log(weight);
 // console.log(age);
+
+
+
+
+
+
+
+
+
+
+var age = 30;
+age = 32;
+console.log(age);
+
