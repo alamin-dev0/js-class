@@ -25,3 +25,4 @@ var mycurrenthomeaddress = "123 Main St, City, Country";
 var my_current_home_address = "123 Main St, City, Country"; //snake case 
 var myCurrentHomeAddress = "123 Main St, City, Country"; //camel case
 var MyCurrentHomeAddress = "123 Main St, City, Country"; //pascal case
+var MY_CURRENT_HOME_ADDRESS = "123 Main St, City, Country"; //constant case
