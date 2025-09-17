@@ -16,3 +16,16 @@ var total = first + second;
 
 const num = -50 / 0;
 console.log(num);
+
+
+var num2 = 50 / 'hello';
+console.log(num2);
+
+
+
+var mousuePrice = '50.5';
+console.log(typeof mousuePrice);
+console.log( mousuePrice);
+mousuePrice = parseFloat(mousuePrice);
+console.log(typeof mousuePrice);
+console.log( mousuePrice);
