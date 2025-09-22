@@ -29,7 +29,21 @@ console.log(Remainder);
 
 
 // fourth task
-const a  = isNaN('11');
-const b = isNaN(2-10);
+const a = isNaN('11');
+const b = isNaN(2 - 10);
+const c = isNaN('Hello');
 console.log(a);
 console.log(b);
+console.log(c);
+
+
+
+// fifth task
+var pepperPrice = 1060;
+var pizzaPrice = 675;
+var backMoney = pepperPrice - pizzaPrice;
+console.log(backMoney);
+var todayCost = pizzaPrice - backMoney;
+console.log(todayCost);
+var DivisorPizza = todayCost / 2;
+console.log(DivisorPizza);
